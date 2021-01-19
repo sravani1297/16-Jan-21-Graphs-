@@ -1,4 +1,4 @@
-''' has-path-official '''
+/* has-path-official */
 import java.io.*;
 import java.util.*;
 
