@@ -1,4 +1,10 @@
-/* has-path-official */
+/*
+https://www.pepcoding.com/resources/online-java-foundation/graphs/has-path-official/ojquestion
+
+** HAS PATH **
+
+*/
+
 import java.io.*;
 import java.util.*;
 

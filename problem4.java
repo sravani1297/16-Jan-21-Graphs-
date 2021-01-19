@@ -1,4 +1,10 @@
-/* Number of Islands */
+/*
+https://leetcode.com/problems/number-of-islands/
+
+**NUMBER OF ISLANDS**
+
+*/
+
 class Solution {
     private int m;
     private int n;
