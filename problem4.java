@@ -1,4 +1,4 @@
-''' Number of Islands '''
+/* Number of Islands */
 class Solution {
     private int m;
     private int n;
